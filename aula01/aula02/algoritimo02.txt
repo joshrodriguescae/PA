@@ -1,0 +1,5 @@
+algoritimo"exemplo02"
+   Escrever na tela"digite seu nome"
+   armazene este valor em nome
+   Escrever na tela nome
+fimalgoritimo
