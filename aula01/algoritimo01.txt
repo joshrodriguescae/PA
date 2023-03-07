@@ -1,0 +1,5 @@
+algoritimo"exemplo01"
+   Escrever na tela"olá mundo" 												
+
+
+fimalgoritimo
