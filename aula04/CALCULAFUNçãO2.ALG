@@ -1,16 +1,15 @@
 Algoritmo "calculafunção"
 
-Var
-x,y:inteiro
 
+Var
+x,y:real
+//y = (x^10 / 32)/3,2
 
 Inicio
-escreval("ESTE PROGRAMA VAI CALCULAR O VALOR DE Y NA EQUAÇÃO ")
-escreval(" y = 5x + 10 ")
 escreval("digite o valor de x: ")
 leia(x)
 
-y <-(5 * x) + 10
+y <-((x^10)/32)/3.2
 
 escreval("O valor de y é: ",Y)
 
