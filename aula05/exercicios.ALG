@@ -1,13 +1,13 @@
 Algoritmo "semnome"
 
 Var
-a,b:inteiro
+a,b,c:inteiro
 
 Inicio
- <-10
- <-20
- escreval(B)
- b <-5
- escreval(B)
+a<-30
+b<-20
+c<-a+b
+
+
 
 Fimalgoritmo
